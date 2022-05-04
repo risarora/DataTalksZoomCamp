@@ -1,0 +1,86 @@
+1:12:24 Data Engineering Zoomcamp
+3:10    DE Zoomcamp 1.1.1 - Introduction to Google Cloud Platform
+23:56   DE Zoomcamp 1.2.1 - Introduction to Docker
+29:01   DE Zoomcamp 1.2.2 - Ingesting NY Taxi Data to Postgres
+7:24    DE Zoomcamp 1.2.2 - Optional: Connecting to Postgres with Jupyter and Pandas
+10:33   DE Zoomcamp 1.2.3 - Connecting pgAdmin and Postgres
+18:22   DE Zoomcamp 1.2.4 - Dockerizing the Ingestion Script
+8:52    DE Zoomcamp 1.2.5 - Running Postgres and pgAdmin with Docker-Compose
+15:53   DE Zoomcamp 1.2.6 - SQL Refreshser
+22:17   DE Zoomcamp 1.3.1 - Introduction to Terraform Concepts & GCP Pre-Requisites
+19:38   DE Zoomcamp 1.3.2 - Creating GCP Infrastructure with Terraform
+50:22   DE Zoomcamp 1.4.1 - Setting up the Environment on Google Cloud (Cloud VM + SSH access)
+15:56   DE Zoomcamp 1.4.2 - Port Mapping and Networks in Docker (Bonus)
+
+8:47 Week #1 Homework Solution (SQL)
+1:04:52 DE Zoomcamp Week #2 Office Hours
+6:27    DE Zoomcamp 2.1.1 - Data Lake
+13:34   DE Zoomcamp 2.2.1 - Introduction to Workflow Orchestration
+17:38   DE Zoomcamp 2.3.1 - Setup Airflow Environment with Docker-Compose
+22:42   DE Zoomcamp 2.3.2 - Ingesting Data to GCP with Airflow
+1:17:44 DE Zoomcamp 2.3.3 - Ingesting Data to Local Postgres with Airflow
+13:01   DE Zoomcamp 2.3.4 - Optional: Lightweight Local Setup for Airflow
+8:02    DE Zoomcamp 2.4.1 - Moving Files from AWS to GPC with Transfer Service
+7:36    DE Zoomcamp 2.4.2 - Configuring the Transfer Service with Terraform
+
+48:04 Week #2 Homework Solution (Airflow)
+
+1:12:47 Data Engineering Zoomcamp Week #3 Office Hours
+23:05   DE Zoomcamp 3.1.1 - Data Warehouse and BigQuery
+7:44    DE Zoomcamp 3.1.2 - Partioning and Clustering
+3:45    DE Zoomcamp 3.2.1 - BigQuery Best Practices
+6:06    DE Zoomcamp 3.2.2 - Internals of Big Query
+15:52   DE Zoomcamp 3.3.1 - BigQuery Machine Learning
+4:27    DE Zoomcamp 3.3.2 - BigQuery Machine Learning Deployment
+54:25   DE Zoomcamp 3.3.3 - Integrating BigQuery with Airflow (+ Week 2 Review)
+11:52   DE Zoomcamp 3.4.1 - Homework
+
+1:14:23 Data Engineering Zoomcamp Week #4 Office Hours
+7:15    DE Zoomcamp 4.1.1 - Analytics Engineering Basics
+5:00    DE Zoomcamp 4.1.2 - What is dbt
+5:33    DE Zoomcamp 4.2.1 - Start Your dbt Project: BigQuery and dbt Cloud (Alternative A)
+6:47    DE Zoomcamp 4.2.2 - Start Your dbt Project: Postgres and dbt Core Locally (Alternative B)
+44:39   DE Zoomcamp 4.3.1 - Build the First dbt Models
+13:52   DE Zoomcamp 4.3.2 - Testing and Documenting the Project
+13:57   DE Zoomcamp 4.4.1 - Deployment Using dbt Cloud (Alternative A)
+7:25    DE Zoomcamp 4.4.2 - Deployment Using dbt Locally (Alternative B)
+20:01   DE Zoomcamp 4.5.1 - Visualising the data with Google Data Studio (Alternative A)
+17:28   DE Zoomcamp 4.5.2 - Visualising the data with Metabase (Alternative B)
+
+11:04 Week #4 Homework Solution (dbt)
+1:09:01 DE Zoomcamp Week #5 Office Hours
+9:31    DE Zoomcamp 5.1.1 - Introduction to Batch processing
+6:47    DE Zoomcamp 5.1.2 - Introduction to Spark
+14:16   DE Zoomcamp 5.2.1 - (Optional) Installing Spark on Linux
+18:15   DE Zoomcamp 5.3.1 - First Look at Spark/PySpark
+14:10   DE Zoomcamp 5.3.2 - Spark DataFrames
+25:30   DE Zoomcamp 5.3.3 - (Optional) Preparing Yellow and Green Taxi Data
+15:33   DE Zoomcamp 5.3.4 - SQL with Spark
+7:30    DE Zoomcamp 5.4.1 - Anatomy of a Spark Cluster
+15:09   DE Zoomcamp 5.4.2 - GroupBy in Spark
+17:05   DE Zoomcamp 5.4.3 - Joins in Spark
+24:14   DE Zoomcamp 5.5.1 - (Optional) Operations on Spark RDDs
+16:44   DE Zoomcamp 5.5.2 - (Optional) Spark RDD mapPartition
+8:47    DE Zoomcamp 5.6.1 - Connecting to Google Cloud Storage
+15:30   DE Zoomcamp 5.6.2 - Creating a Local Spark Cluster
+12:06   DE Zoomcamp 5.6.3 - Setting up a Dataproc Cluster
+
+30:45 Homework #5 solution
+
+1:11:48 DE Zoomcamp Week #7 Office Hours
+1:07:58 DE Zoomcamp Week #8 Office Hours
+37:40   DE Zoomcamp 6.1.1 - Kafka introduction
+23:01   DE Zoomcamp 6.1.2 - Kafka configuration and demo
+19:43   DE Zoomcamp 6.2.1 - Schema registry-Avro
+17:54   DE Zoomcamp 6.3.1 - Kafka Streams
+17:48   DE Zoomcamp 6.3.2 - Kafka Streams
+25:48   DE Zoomcamp 6.3.3 - Kafka Streams-Features
+12:45   DE Zoomcamp 6.4.1 - Kafka Connect and KSQL
+1:03:58 DE Zoomcamp Office Hours
+1:03:53 DE Zoomcamp Office Hours
+40:46   DE Zoomcamp Office Hours
+23:53   DE Zoomcamp Projects - Streamify by Ankur Chavda
+26:33   DE Zoomcamp Projects - DataTalksClub Slack Dump Analytics by Irem Ertürk
+20:24   DE Zoomcamp Projects - GHCN-D by Marcos Jiménez
+56:28   DE Zoomcamp Office Hours
+14:27   DE Zoomcamp Projects - Citibike Trips by Timur Kamaliev
