@@ -74,9 +74,18 @@ root@84565c57052c:/# pwd
 root@84565c57052c:/# exit
 exit
 PS C:\Users\Lenovo> docker run -it python:3.8
-Unable to find image 'python:3.8' locally
+Unable to find image 'python:3.8' locally 
 3.8: Pulling from library/python
-6aefca2dc61d: Pull complete                                                                                             967757d56527: Pull complete                                                                                             c357e2c68cb3: Pull complete                                                                                             c766e27afb21: Pull complete                                                                                             32a180f5cf85: Pull complete                                                                                             1535e3c1181a: Pull complete                                                                                             169cbf91df16: Pull complete                                                                                             48c02d5c52ac: Pull complete                                                                                             e1494a0c0d5d: Pull complete                                                                                             Digest: sha256:f732d55571549b427e12edb89d0951372e7b73c67f717ad0645bb0cda19fc05e
+6aefca2dc61d: Pull complete
+967757d56527: Pull complete
+c357e2c68cb3: Pull complete
+c766e27afb21: Pull complete
+32a180f5cf85: Pull complete
+1535e3c1181a: Pull complete
+169cbf91df16: Pull complete
+48c02d5c52ac: Pull complete
+e1494a0c0d5d: Pull complete
+sha256:f732d55571549b427e12edb89d0951372e7b73c67f717ad0645bb0cda19fc05e
 Status: Downloaded newer image for python:3.8
 Python 3.8.13 (default, Apr 20 2022, 18:53:37)
 [GCC 10.2.1 20210110] on linux
@@ -109,33 +118,20 @@ root@4744a1d603b1:/# python
 Python 3.8.13 (default, Apr 20 2022, 18:53:37)
 [GCC 10.2.1 20210110] on linux
 Type "help", "copyright", "credits" or "license" for more information.
->>> importpandas as pd
-  File "<stdin>", line 1
-    importpandas as pd
-                 ^
-SyntaxError: invalid syntax
 >>> import pandas as pd
 >>> exit()
 root@4744a1d603b1:/# vi pipeline.py
 
 
 PS C:\Users\Lenovo> docker run -it --entrypoint=bash python:3.9
-6de7cb7bdc8f: Downloading [===============>                                   ]  5.852MB/18.31MB                        3.9: Pulling from library/python
-6aefca2dc61d: Already exists                                                                                            6de7cb7bdc8f: Downloading [============>                                      ]  4.483MB/18.31MB                        c357e2c68cb3: Already exists                                                                                            c766e27afb21: Already exists                                                                                            32a180f5cf85: Already exists                                                                                            1535e3c1181a: Already exists                                                                                            6de7cb7bdc8f: Downloading [=========>                                         ]  3.312MB/18.31MB                        26787c68cf0c: Download complete                                                                                         9952b1051ada: Download complete                                                                                         
-
 
 ```
 ## Python Docker Images
 
+Docker file with pandas installed
 
-```
+* **Dockerfile_python_pandas.txt**
 
-DOcker file with pandas installed
-
-Dockerfile_python_pandas.txt
-
-
-```
 ```
 FROM python:3.9
 
